@@ -20,3 +20,10 @@ solution
 7-ciclo l'arrey e lo confronto con la parola inserita nella form
 8-? se è vera imposto la variabile a true
 9- mostro il risultato in console
+
+<!-- snack 2 -->
+solution
+1-creo un arrey
+2-creo ciclo for
+3-chiedo all'utente di inserire il numero sei volte
+4-definisco se il numero e pari o dispari
